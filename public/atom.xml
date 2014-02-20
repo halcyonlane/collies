@@ -4,7 +4,7 @@
   <title><![CDATA[Halcyon Lane]]></title>
   <link href="http://www.halcyonlane.com/atom.xml" rel="self"/>
   <link href="http://www.halcyonlane.com/"/>
-  <updated>2014-02-19T21:21:12-06:00</updated>
+  <updated>2014-02-19T21:29:01-06:00</updated>
   <id>http://www.halcyonlane.com/</id>
   <author>
     <name><![CDATA[Halcyon Lane]]></name>
@@ -14,16 +14,20 @@
 
   
   <entry>
+    
     <title type="html"><![CDATA[Amish Lassie]]></title>
     <link href="http://www.halcyonlane.com/blog/2014/02/19/amish-lassie/"/>
+    
     <updated>2014-02-19T21:00:22-06:00</updated>
     <id>http://www.halcyonlane.com/blog/2014/02/19/amish-lassie</id>
+    
     <content type="html"><![CDATA[<p>We found lassie on an Amish farm and bought her.</p>
 
 <p>She is due with puppies soon and we have her provisionally registered.</p>
 
 <p>How exciting</p>
 ]]></content>
+    
   </entry>
   
 </feed>
