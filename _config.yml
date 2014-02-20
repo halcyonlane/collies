@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.halcyonlane.com
-title: Halcyon Lane
+url: http://collies.halcyonlane.com
+title: Halcyon Lane Farm
 subtitle: Idyllically happy and peaceful
-simple_search: http://google.com/search
+#simple_search: http://google.com/search
 author: Halcyon Lane
 description:
 

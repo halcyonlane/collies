@@ -1,27 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://www.halcyonlane.com/blog/2014/02/19/amish-lassie/</loc>
-        <lastmod>2014-02-19T21:28:54-06:00</lastmod>
+        <loc>http://collies.halcyonlane.com/blog/2014/02/19/amish-lassie/</loc>
+        <lastmod>2014-02-19T21:49:32-06:00</lastmod>
     </url>
     <url>
-        <loc>http://www.halcyonlane.com/404.html</loc>
-        <lastmod>2014-02-19T21:28:53-06:00</lastmod>
+        <loc>http://collies.halcyonlane.com/404.html</loc>
+        <lastmod>2014-02-19T21:49:32-06:00</lastmod>
     </url>
     <url>
-        <loc>http://www.halcyonlane.com/blog/archives/</loc>
-        <lastmod>2014-02-19T21:28:54-06:00</lastmod>
+        <loc>http://collies.halcyonlane.com/amish-lassie/</loc>
+        <lastmod>2014-02-19T22:22:04-06:00</lastmod>
     </url>
     <url>
-        <loc>http://www.halcyonlane.com/</loc>
-        <lastmod>2014-02-19T21:28:54-06:00</lastmod>
+        <loc>http://collies.halcyonlane.com/blog/archives/</loc>
+        <lastmod>2014-02-19T21:49:32-06:00</lastmod>
     </url>
     <url>
-        <loc>http://www.halcyonlane.com/robots.txt</loc>
-        <lastmod>2014-02-19T21:28:54-06:00</lastmod>
+        <loc>http://collies.halcyonlane.com/captain-jack/</loc>
+        <lastmod>2014-02-19T22:21:57-06:00</lastmod>
     </url>
     <url>
-        <loc>http://www.halcyonlane.com/scotch-collies/</loc>
-        <lastmod>2014-02-19T21:28:53-06:00</lastmod>
+        <loc>http://collies.halcyonlane.com/</loc>
+        <lastmod>2014-02-19T21:49:32-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://collies.halcyonlane.com/robots.txt</loc>
+        <lastmod>2014-02-19T21:49:32-06:00</lastmod>
     </url>
 </urlset>

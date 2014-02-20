@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://www.halcyonlane.com/sitemap.xml 
+Sitemap: http://collies.halcyonlane.com/sitemap.xml 
