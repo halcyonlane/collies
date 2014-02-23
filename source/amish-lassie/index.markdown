@@ -16,3 +16,5 @@ We are really excited about finding Lassie and pairing her up with
 [Captain Jack](/captain-jack "Heritage Captain Jack")
 and Lassie get along really well and it's fun to see them running around the farm together.
 
+[Read more about how we found Lassie](blog/2014/02/19/amish-lassie/ "How Lassie came to the farm")
+

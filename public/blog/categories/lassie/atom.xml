@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Halcyon Lane Farm]]></title>
-  <link href="http://collies.halcyonlane.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: lassie | Halcyon Lane Farm]]></title>
+  <link href="http://collies.halcyonlane.com/blog/categories/lassie/atom.xml" rel="self"/>
   <link href="http://collies.halcyonlane.com/"/>
   <updated>2014-02-22T23:59:29-06:00</updated>
   <id>http://collies.halcyonlane.com/</id>
@@ -14,14 +14,11 @@
 
   
   <entry>
-    
     <title type="html"><![CDATA[how lassie joined the farm]]></title>
     <link href="http://collies.halcyonlane.com/blog/2014/02/19/amish-lassie/"/>
-    
     <updated>2014-02-19T21:00:22-06:00</updated>
     <id>http://collies.halcyonlane.com/blog/2014/02/19/amish-lassie</id>
-    
-    <content type="html"><![CDATA[<p><img src="http://collies.halcyonlane.com/images/lassie-circle.png" title="Amish Lassie" alt="Amish Lassie" /></p>
+    <content type="html"><![CDATA[<p><img src="/images/lassie-circle.png" title="Amish Lassie" alt="Amish Lassie" /></p>
 
 <p>This is the story of how we came to find and buy Lassie from a local Amish family here in Wisconsin.</p>
 
@@ -40,7 +37,7 @@ When asked if Lassie herds any animals around the farm, I was told, &ldquo;Oh ye
 On their farm they had 8 or so milk cows and raised layer chickens, along with a pony and I&rsquo;m not sure what else.
 Their children were all young, so I knew Lassie was used to kids!</p>
 
-<p><img src="http://collies.halcyonlane.com/images/meeting-lassie.png" title="Meeting Lassie" alt="Meeting Lassie" /></p>
+<p><img src="/images/meeting-lassie.png" title="Meeting Lassie" alt="Meeting Lassie" /></p>
 
 <p>They didn&rsquo;t know anything of Lassie&rsquo;s background, just that &ldquo;someone in our community raises them.&rdquo; I was very
 intrigued about Lassie after that visit. She lingered in my mind as a potential Scotch Collie.
@@ -65,7 +62,6 @@ friends, too.</p>
 
 <p>This January, 2014, Lassie came into heat so we are hoping to have a litter of puppies coming in March.</p>
 ]]></content>
-    
   </entry>
   
 </feed>

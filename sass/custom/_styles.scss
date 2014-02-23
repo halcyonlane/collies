@@ -11,6 +11,10 @@ body {
 	h1, h2, h3, h4, h5 {
 	}
 
+  img {
+    box-shadow: none !important;
+  }
+
 	a:hover {
 		color: #3a8acc !important;
 		background: #FFFFFF;
