@@ -1,12 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://collies.halcyonlane.com/blog/2014/01/02/all-about-jack/</loc>
+        <lastmod>2014-02-24T22:00:50-06:00</lastmod>
+    </url>
+    <url>
         <loc>http://collies.halcyonlane.com/blog/2014/02/19/amish-lassie/</loc>
-        <lastmod>2014-02-22T23:59:29-06:00</lastmod>
+        <lastmod>2014-02-24T22:04:29-06:00</lastmod>
     </url>
     <url>
         <loc>http://collies.halcyonlane.com/404.html</loc>
         <lastmod>2014-02-19T21:49:32-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://collies.halcyonlane.com/about/</loc>
+        <lastmod>2014-02-24T21:41:39-06:00</lastmod>
     </url>
     <url>
         <loc>http://collies.halcyonlane.com/amish-lassie/</loc>
@@ -14,7 +22,7 @@
     </url>
     <url>
         <loc>http://collies.halcyonlane.com/blog/archives/</loc>
-        <lastmod>2014-02-22T23:59:29-06:00</lastmod>
+        <lastmod>2014-02-24T22:04:29-06:00</lastmod>
     </url>
     <url>
         <loc>http://collies.halcyonlane.com/captain-jack/</loc>
@@ -22,7 +30,7 @@
     </url>
     <url>
         <loc>http://collies.halcyonlane.com/</loc>
-        <lastmod>2014-02-22T23:59:29-06:00</lastmod>
+        <lastmod>2014-02-24T22:04:29-06:00</lastmod>
     </url>
     <url>
         <loc>http://collies.halcyonlane.com/robots.txt</loc>

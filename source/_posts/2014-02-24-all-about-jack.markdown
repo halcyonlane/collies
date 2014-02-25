@@ -1,0 +1,35 @@
+---
+layout: post
+title: "All About Jack"
+date: 2014-01-02 21:45:50 -0600
+categories: jack 
+author: mindy
+---
+
+![Captain Jack](/images/jack-circle.png "Captain Jack")
+
+After we moved to our hobby farm a few years ago, we started looking at what kind of dog we would like to have. I did the "Pet Selector" search on one of the dog breed websites and started with the criteria of being very good with children and farm animals. Only about 5 breeds showed up, and one of them was Scotch Collie. Intrigued, I started to do research on the breed and fell in love with them!
+
+<!-- more -->
+
+When we were given the opportunity to purchase Captain Jack, we were excited. His dam is a granddaughter of one of the original four MacDuffie dogs (her pedigree goes back to the original four many times), while his sire is a son of Gracehaven Angus and one of Peruvian Lassie's only litter. And he was adorable! We drove to Missouri to get him and he's been a wonderful addition to our farm ever since. 
+
+Our full name for Jack is "Captain John Paul Jones," after the Scotch Naval hero.
+
+He was a great puppy. Sometimes I had to remind myself that he was still a puppy (and then he reminded me himself, by doing something hilarious, like running back and forth through tall grass, acting like he's attacking something and that it's attacking him back). Since he was a puppy, Jack has loved greeting each of us in the morning. It's something special where he is excited to see each person for the first time each morning.
+
+We brought him to an outdoor festival when he was 2 months old, and it was really fun to hear everyone's comments about him. It was touching to hear how many people were nostalgic about OT collies! One elderly couple came up to me and asked what kind of dog he was. After I replied, the man nudged his wife and said, "See, I told you it was a collie!" It was more of the type he remembered collies being. One of my favorite stories was from a woman who said that the collie she grew up with used to let the family know that the phone was ringing in the house when they were all in the barn!
+
+Jack's matured very well. He's been great with the kids and all the animals around here. We've had to train him on accepted behaviors, of course, but he is definitely eager to please. One of the Scotch Collie attributes that I have loved, and which Jack has exhibited very well since puppyhood, is their love of relaxing and resting... until they perceive they're needed!
+
+A fox started snatching almost a chicken a day last summer. After Jack had seen the fox and learned the smell, he was on the alert. In fact, he's been on the alert ever since. Months later, in the dead of winter, we got a nature's night sounds CD. As soon as we played the red fox yelp, Jack went wild. We quickly shut the sound off, but for two weeks after, Jack would bark to go outside almost constantly, and always run his patrol route through the woods and back around to the yard.
+He does a great job at alerting us to visitors. When he was still a young pup, I was worried about his protectiveness - he didn't seem to have any. But, he sure grew into it! But I have no fears that he'd ever hurt anyone (he wasn't supposed to!).
+We brought him to an outdoor festival this past weekend, and it was really fun to hear everyone's comments about him. It was touching to hear how many people were nostalgic about OT collies! One of my favorite stories was from a woman who said that the collie she grew up with used to let the family know that the phone was ringing in the house when they were all in the barn!
+
+Not too long ago, Jack did something interesting.  My husband and I were talking and Jack was in the next room.  He barked, which is unusual for him to do in the house.  We looked at him and he barked again, but not at anything that we could tell.  When we stepped into the room where he was we heard one of our daughters crying.  Jack had heard her crying but must have figured out that we hadn't heard her, and was trying to tell us!   I told my husband, "He just had a Scotch Collie moment!"
+
+Jack loves to be where we are, especially when we're outside! He has been very responsive to discipline and wants to please us. Of course not perfect - he's not even two yet - but really great!
+
+From what I had read about Scotch Collies, to what I've observed with Jack, some things have met my expectations, and some haven't.  Jack loves the snow! This Spring we had one small patch of snow left after the melting. Where did Jack go lay down?  Sure enough, right on top of it. The only time I really noticed him actually being cold was when we were having record low temperatures with wind chills well into the negatives - and then only after he had been out for a little while! His coat does shed water very well, and stays surprisingly clean and non-odorous. 
+Jack definitely has a herding instinct, which so far he's only had a chance to use on chickens and guineas. It was pretty easy to train him that we didn't want the chickens in our yard. He does a great job herding them out of it!
+

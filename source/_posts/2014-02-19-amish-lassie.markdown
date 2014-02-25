@@ -1,19 +1,21 @@
 ---
 layout: post
-title: "how lassie joined the farm"
+title: "How Lassie Joined the Farm"
 date: 2014-02-19 21:00:22 -0600
-comments: true
 categories: lassie
+author: mindy
 ---
 
 ![Amish Lassie](/images/lassie-circle.png "Amish Lassie")
 
 This is the story of how we came to find and buy Lassie from a local Amish family here in Wisconsin.
 
-It all started when I was reading about Scotch Collies (which is a whole different story). 
+It all started when I was reading about Scotch Collies for the first time.
 I was reminded of a farm dog I had seen while visiting a local Amish business (located on their farm). 
 Something about the dog's affection and understanding of her master stuck with me. 
 I left a message with them later that I was interested in getting a dog like they had.
+
+<!-- more -->
 
 A couple of months later I saw an ad in our rural newspaper advertising collie/heeler puppies 
 and only listed an address. This usually means they are Amish. 

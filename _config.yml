@@ -5,9 +5,9 @@
 url: http://collies.halcyonlane.com
 title: Halcyon Lane Farm
 subtitle: Scotch Collies
-#simple_search: http://google.com/search
 author: Halcyon Lane
 description:
+mnml_mailto: mindy@halcyonlane.com
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
