@@ -1,4 +1,4 @@
- ---
+---
 layout: page
 title: "what Are We About?"
 footer: true
