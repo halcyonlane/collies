@@ -1,11 +1,12 @@
 ---
 layout: page
-title: "what Are We About?"
 footer: true
 ---
 
-We have been very interested in preserving the farm collie ever since we started researching dog breeds for our hobby farm.
-Among the many things that attracted us to the breed, its versatility for diversified farming (like most farms were, back in the day) stood out. Heritage breed animals, in general, were meant to get along well with people and perform a variety of tasks. Although there doesn't seem to be a practical use for this attribute, we also love Scotch Collies because they are... beautiful!
+We have been very interested in preserving the Scotch Collie ever since we started researching dog breeds for our hobby farm.
+Among the many things that attracted us to the breed, its versatility for diversified farming (like most farms were, back in the day) stood out. Heritage breed animals, in general, were meant to get along well with people and perform a variety of tasks.
+
+But sometimes we love Scotch Collies just because they are beautiful dogs. They possess the practicality and the beauty, which really makes them stand out as a breed.
 
 For more information about Scotch Collies you can visit a few of these great sites:
 
