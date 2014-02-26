@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "captain jack"
+title: "Captain Jack"
 footer: true
 ---
 
@@ -15,7 +15,9 @@ and we were really excited to get in on a litter from
 [Lassen](http://www.scotchcollie.org/registry/browser.php?id=63528 "Heritage Little Lassen")
 and 
 [Rainier](http://www.scotchcollie.org/registry/browser.php?id=63492 "Heritage Mighty Rainier")
-. 
+. We are members of the
+[Old-Time Scotch Collie Association](http://www.scotchcollie.org/club/ "Old-Time Scotch Collie Association")
+and Jack is registered there.
 
 It was an adventure getting Captain Jack in August of 2012 when we made a trip to Missouri as part of a "puppy train"
 that started in Arizona and ended in Michigan.
