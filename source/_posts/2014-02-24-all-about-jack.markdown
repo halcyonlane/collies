@@ -33,6 +33,6 @@ Not too long ago, Jack did something interesting.  My husband and I were talking
 
 Jack loves the snow! This Spring we had one small patch of snow left after the melting. Where did Jack go lay down?  Sure enough, right on top of it. The only time I really noticed him actually being cold was when we were having record low temperatures with wind chills well into the negatives - and then only after he had been out for a little while!
 
-Jack definitely has a herding instinct, which he's only had a chance to use on chickens and guineas, so far.  It was pretty easy to train him that we didn't want the chickens in our yard. He does a great job herding them out of it!
+Jack definitely has a herding instinct. It was pretty easy to train him that we didn't want the chickens in our yard. He does a great job herding them out of it! He also is learning how to work with the family cow and calf.
 
 After having read so much about Scotch Collies, and wondering what they would be like in reality, Captain Jack hasn't let us down!
