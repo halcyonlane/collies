@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: puppies | Halcyon Lane Farm]]></title>
+  <link href="http://collies.halcyonlane.com/blog/categories/puppies/atom.xml" rel="self"/>
+  <link href="http://collies.halcyonlane.com/"/>
+  <updated>2014-08-19T21:53:58-05:00</updated>
+  <id>http://collies.halcyonlane.com/</id>
+  <author>
+    <name><![CDATA[Halcyon Lane]]></name>
+    <email><![CDATA[mindy@halcyonlane.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Puppies on the way!]]></title>
+    <link href="http://collies.halcyonlane.com/blog/2014/08/19/puppies-on-the-way/"/>
+    <updated>2014-08-19T20:54:14-05:00</updated>
+    <id>http://collies.halcyonlane.com/blog/2014/08/19/puppies-on-the-way</id>
+    <content type="html"><![CDATA[<p><img src="/images/lassie-circle.png" title="Amish Lassie" alt="Amish Lassie" />
+<img src="/images/jack-circle.png" title="Captain Jack" alt="Captain Jack" /></p>
+
+<p>We took Lassie to the vet two weeks ago and she was diagnosed with puppies!
+When Lassie was on the Amish farm, she usually had big litters of 8 to 12 pups.
+We&rsquo;ll see if that holds true, and if so, we could be in for a lot of fun around our place.
+She is due in early September.</p>
+
+<p>We&rsquo;ve been really excited to see how to combination of Jack and Lassie will turn out.
+Lassie introduces an entirely new blood line to the <a href="http://www.scotchcollie.org/club/," title="Old Time Scotch Collie Association">OTSCA</a> registry, and she is a really special dog. Jack brings a great pedigree to the mix, so hopefully
+there will be some fantastic puppies to share with the Scotch Collie community soon.</p>
+
+<p>To be placed on our puppy waiting list,
+<a href="mailto:mindy@halcyonlane.com">send us an email</a>
+with the subject line &ldquo;Gotta have one!&rdquo; and tell us a little about yourself.</p>
+]]></content>
+  </entry>
+  
+</feed>
