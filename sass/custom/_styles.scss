@@ -43,6 +43,15 @@ body {
 			font-size: 1em;
 			letter-spacing: 4px;
 			color: #3a8acc;
+
+      a {
+        color: #3a8acc;
+				text-decoration: none;
+			}
+			
+			a:hover {
+				color: #3a8acc;
+			};
 		}
 		
 		h1 {

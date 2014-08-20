@@ -1,14 +1,8 @@
 
 
-This winter, now that we have Captain Jack, we haven't had a single deer nibble at my apple trees. 
-Forget fancy smelly sprays, just get a Scotch Collie!
+Now we've been training Jack to keep the goslings out of the back yard. He is very enthusiastic about helping, but as soon as the goslings are out of the yard, he doesn't even wait for my "That'll do" to come back toward me, since he knows his job is done. I think Jack's highest motivator is praise from us. When he does a good job he gives his collie smile and soaks in his reward.
 
+When the goslings were still quite small yet, we were putting them in their ranging pen. I noticed Lassie, who had been lying nearby, get up and move a couple of feet over, then lie down. Then she did it again. I couldn't figure out what she was doing until I realized that the family cat was coming close, and Lassie was deliberately placing herself in between the cat and the goslings!
 
-Lassie Plays Fetch
-
-Jack loves to play Fetch. In fact, before the snow fell, Tony would hit tennis balls with his golf club. As soon as Tony hit the ball, Jack would go tearing after it as fast as he could, often whining as he did so, in the agony of trying to go faster! 
-
-I don't know that Lassie learned how to play with her previous owners. Since she came here, she has seemed puzzled every time we play with Jack. Often she'd try to chase him, as if wondering if we want him caught. She seemed jealous, wanting our attention.
-
-Well, this week she turned over a new leaf. Jack brought me a big stick and I threw it for him. After a couple throws, while he was retrieving one, Lassie came up to me with a tiny stick in her mouth! I threw it nearby, and she retrieved it for me! I convinced her to give it to me, and then threw it farther this time. She didn't even try to get it. As long as I threw it close, she'd get it. It was as if she knew that Jack would beat her to the distance sticks every time, so established the rules she wanted.
+Also, we can talk about the lost goslings. And maybe give an update on puppies.
 

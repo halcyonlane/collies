@@ -2,7 +2,7 @@
 layout: post
 title: "'Yotes!"
 date: 2014-04-29 20:54:33 -0500
-categories: lassie 
+categories: lassie jack
 author: mindy
 ---
 
