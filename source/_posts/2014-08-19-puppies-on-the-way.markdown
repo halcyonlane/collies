@@ -15,7 +15,7 @@ When Lassie was on the Amish farm, she usually had big litters of 8 to 12 pups.
 We'll see if that holds true, and if so, we could be in for a lot of fun around our place.
 She is due in early September.
 
-We've been really excited to see how to combination of Jack and Lassie will turn out.
+We've been really excited to see how the combination of Jack and Lassie will turn out.
 Lassie introduces an entirely new blood line to the [OTSCA](http://www.scotchcollie.org/club/, "Old Time Scotch Collie Association") registry, and she is a really special dog. Jack brings a great pedigree to the mix, so hopefully
 there will be some fantastic puppies to share with the Scotch Collie community soon.
 
