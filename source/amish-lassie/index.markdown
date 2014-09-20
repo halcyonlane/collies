@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "amish lassie"
+title: "Amish Lassie"
 footer: true
 ---
 
