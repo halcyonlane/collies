@@ -68,7 +68,7 @@ the order reservations are made.
 &nbsp;&nbsp; warming her pretty little toes.*
 ![Polly Flinders](/images/pups-2014-Sept/week-three/Polly-Flinders.jpg "Polly Flinders")
 
-There are more pictures of each of the pups [here](https://drive.google.com/folderview?id=0B_QwKlzkFhx7UFpEeWk0dXZsMWM&usp=sharing&tid=0B_QwKlzkFhx7Q2FKV1d6SjVpb1U)
+There are more pictures of the pups [here](https://drive.ghttps://www.facebook.com/media/set/?set=a.149593271877555.1073741829.144222662414616&type=1&l=c96912da86oogle.com/folderview?id=0B_QwKlzkFhx7UFpEeWk0dXZsMWM&usp=sharing&tid=0B_QwKlzkFhx7Q2FKV1d6SjVpb1U)
 
 
 
