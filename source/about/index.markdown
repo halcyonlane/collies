@@ -18,3 +18,4 @@ For more information about Scotch Collies you can visit these great sites:
 
 [Old-Time Farm Shepherd](http://www.oldtimefarmshepherd.org/)
 
+P.S. - Our farm is located in beautiful Fall Creek, Wisconsin. We'd love to hear from you!
