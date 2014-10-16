@@ -37,7 +37,10 @@ the order reservations are made.
 
 ## Charley Wag
 &nbsp;&nbsp; *Ate the pudding, and left the bag.* 
-![Charley Wag](/images/pups-2014-Sept/week-five/Charley-Wag.jpg "Charley Wag")
+<div class="ribbon-container">
+   <img src="/images/reserved-ribbon.png" class="ribbon-img"/>
+   <img src="/images/pups-2014-Sept/week-five/Charley-Wag.jpg" title="Charley Wag" alt="Charley Wag">
+</div>
 
 ## Jenny Wren
 &nbsp;&nbsp; *'Twas once upon a time, when Jenny Wren was young, <br/>
@@ -62,8 +65,9 @@ the order reservations are made.
 ## Polly Flinders
 &nbsp;&nbsp; *Little Polly Flinders sat among the cinders, <br/>
 &nbsp;&nbsp; warming her pretty little toes.*
-![Polly Flinders](/images/pups-2014-Sept/week-five/Polly-Flinders.jpg "Polly Flinders")
-
-
+<div class="ribbon-container">
+   <img src="/images/reserved-ribbon.png" class="ribbon-img"/>
+   <img src="/images/pups-2014-Sept/week-five/Polly-Flinders.jpg" title="Polly Flinders" alt="Polly Flinders">
+</div>
 
 
