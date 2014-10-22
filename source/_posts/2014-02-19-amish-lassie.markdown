@@ -49,6 +49,5 @@ Lassie really seemed to accept her new home and us as her new family. She has be
 chickens, likes to help herd our family cow and calf, and plays nice with the family cats. She and Captain Jack are great
 friends, too.
 
-This January, 2014, Lassie came into heat so we are hoping to have a litter of puppies coming in March.
 
 
