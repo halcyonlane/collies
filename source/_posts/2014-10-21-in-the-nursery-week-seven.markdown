@@ -53,7 +53,10 @@ the order reservations are made.
 ## Lucy Locket
 &nbsp;&nbsp; *Lucy Locket lost her pocket, Kitty Fisher found it; <br/>
 &nbsp;&nbsp; Not a penny was there in it, only ribbon round it.* 
-![Lucy Locket](/images/pups-2014-Sept/week-seven/Lucy-Locket.jpg "Lucy Locket")
+<div class="ribbon-container">
+   <img src="/images/reserved-ribbon.png" class="ribbon-img"/>
+   <img src="/images/pups-2014-Sept/week-seven/Lucy-Locket.jpg" title="Lucy Locket" alt="Lucy Locket">
+</div>
 
 ## Margery Daw
 &nbsp;&nbsp; *See-saw, Margery Daw, Johnny shall have a new master; <br/>
