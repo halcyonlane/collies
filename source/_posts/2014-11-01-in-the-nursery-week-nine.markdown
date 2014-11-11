@@ -76,7 +76,10 @@ the order reservations are made.
 ## Nancy Etticoat
 &nbsp;&nbsp; *Little Nancy Etticoat in a white petticoat and a red nose; <br/>
 &nbsp;&nbsp; The longer she stands the shorter she grows.*
-![Nancy Etticoat](/images/pups-2014-Sept/week-nine/Nancy-Etticoat.jpg "Nancy Etticoat")
+<div class="ribbon-container">
+   <img src="/images/at-new-home.png" class="ribbon-img"/>
+   <img src="/images/pups-2014-Sept/week-nine/Nancy-Etticoat.jpg" title="Nancy Etticoat" alt="Nancy Etticoat">
+</div>
 <a href="https://www.facebook.com/media/set/?set=a.171792216324327.1073741834.144222662414616&type=3" target="_blank">More Pictures of Nancy Etticoat</a>
 
 ## Polly Flinders
