@@ -54,7 +54,10 @@ the order reservations are made.
 ## Jenny Wren
 &nbsp;&nbsp; *'Twas once upon a time, when Jenny Wren was young, <br/>
 &nbsp;&nbsp; So daintily she danced and so prettily she sung...*
-![Jenny Wren](/images/pups-2014-Sept/week-nine/Jenny-Wren.jpg "Jenny Wren")
+<div class="ribbon-container">
+   <img src="/images/reserved-ribbon.png" class="ribbon-img"/>
+   <img src="/images/pups-2014-Sept/week-nine/Jenny-Wren.jpg" title="Jenny Wren" alt="Jenny Wren">
+</div>
 <a href="https://www.facebook.com/media/set/?set=a.171796649657217.1073741839.144222662414616&type=1" target="_blank">More Pictures of Jenny Wren</a>
 
 ## Lucy Locket
@@ -69,7 +72,10 @@ the order reservations are made.
 ## Margery Daw
 &nbsp;&nbsp; *See-saw, Margery Daw, Johnny shall have a new master; <br/>
 &nbsp;&nbsp; He shall have but a penny a day because he can't work any faster.*
-![Margery Daw](/images/pups-2014-Sept/week-nine/Margery-Daw.jpg "Margery Daw")
+<div class="ribbon-container">
+   <img src="/images/reserved-ribbon.png" class="ribbon-img"/>
+   <img src="/images/pups-2014-Sept/week-nine/Margery-Daw.jpg" title="Margery Daw" alt="Margery Daw">
+</div>
 <a href="https://www.facebook.com/media/set/?set=a.171793266324222.1073741835.144222662414616&type=3" target="_blank">More Pictures of Margery Daw</a>
 
 
