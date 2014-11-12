@@ -7,6 +7,8 @@ categories: puppies
 author: tony & mindy
 ---
 
+![Puppies](/images/puppies-1-circle.png "Puppies")
+
 The puppies are now 8 weeks old, and those not spoken-for are ready to go to new homes! 
 They have really grown during the past two weeks and are delightfully fun. They're adventurous and playful when outdoors, 
 mellow and relaxed in-between times, and getting cuter every day!
