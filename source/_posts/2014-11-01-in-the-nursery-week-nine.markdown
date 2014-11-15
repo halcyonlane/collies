@@ -35,7 +35,10 @@ the order reservations are made.
 ## Betsy Brooks
 &nbsp;&nbsp; *As Tommy Snooks and Betsy Brooks were walking out one Sunday, <br/>
 &nbsp;&nbsp; Said Tommy Snooks to Betsy Brooks, "Tomorrow will be Monday."*
-![Betsy Brooks](/images/pups-2014-Sept/week-nine/Betsy-Brooks.jpg "Betsy Brooks")
+<div class="ribbon-container">
+   <img src="/images/reserved-ribbon.png" class="ribbon-img"/>
+   <img src="/images/pups-2014-Sept/week-nine/Betsy-Brooks.jpg" title="Betsy Brooks" alt="Betsy Brooks">
+</div>
 <a href="https://www.facebook.com/media/set/?set=a.171827356320813.1073741840.144222662414616&type=1" target="_blank">More Pictures of Betsy Brooks</a>
 
 
