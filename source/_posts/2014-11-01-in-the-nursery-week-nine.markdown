@@ -36,7 +36,7 @@ the order reservations are made.
 &nbsp;&nbsp; *As Tommy Snooks and Betsy Brooks were walking out one Sunday, <br/>
 &nbsp;&nbsp; Said Tommy Snooks to Betsy Brooks, "Tomorrow will be Monday."*
 <div class="ribbon-container">
-   <img src="/images/reserved-ribbon.png" class="ribbon-img"/>
+   <img src="/images/at-new-home.png" class="ribbon-img"/>
    <img src="/images/pups-2014-Sept/week-nine/Betsy-Brooks.jpg" title="Betsy Brooks" alt="Betsy Brooks">
 </div>
 <a href="https://www.facebook.com/media/set/?set=a.171827356320813.1073741840.144222662414616&type=1" target="_blank">More Pictures of Betsy Brooks</a>
@@ -45,13 +45,16 @@ the order reservations are made.
 ## Bobby Shaftoe
 &nbsp;&nbsp; *Bobby Shaftoe's gone to sea, Silver buckles on his knee; <br/>
 &nbsp;&nbsp; He'll come back and marry me, Bonny Bobby Shaftoe!*
-![Bobby Shaftoe](/images/pups-2014-Sept/week-nine/Bobby-Shaftoe.jpg "Bobby Shaftoe")
+<div class="ribbon-container">
+   <img src="/images/at-new-home.png" class="ribbon-img"/>
+   <img src="/images/pups-2014-Sept/week-nine/Bobby-Shaftoe.jpg" title="Bobby Shaftoe" alt="Bobby Shaftoe">
+</div>
 <a href="https://www.facebook.com/media/set/?set=a.171794569657425.1073741836.144222662414616&type=3" target="_blank">More Pictures of Bobby Shaftoe</a>
 
 ## Charley Wag
 &nbsp;&nbsp; *Ate the pudding, and left the bag.* 
 <div class="ribbon-container">
-   <img src="/images/reserved-ribbon.png" class="ribbon-img"/>
+   <img src="/images/at-new-home.png" class="ribbon-img"/>
    <img src="/images/pups-2014-Sept/week-nine/Charley-Wag.jpg" title="Charley Wag" alt="Charley Wag">
 </div>
 <a href="https://www.facebook.com/media/set/?set=a.171795936323955.1073741838.144222662414616&type=3" target="_blank">More Pictures of Charley Wag</a>
@@ -60,7 +63,7 @@ the order reservations are made.
 &nbsp;&nbsp; *'Twas once upon a time, when Jenny Wren was young, <br/>
 &nbsp;&nbsp; So daintily she danced and so prettily she sung...*
 <div class="ribbon-container">
-   <img src="/images/reserved-ribbon.png" class="ribbon-img"/>
+   <img src="/images/at-new-home.png" class="ribbon-img"/>
    <img src="/images/pups-2014-Sept/week-nine/Jenny-Wren.jpg" title="Jenny Wren" alt="Jenny Wren">
 </div>
 <a href="https://www.facebook.com/media/set/?set=a.171796649657217.1073741839.144222662414616&type=1" target="_blank">More Pictures of Jenny Wren</a>
