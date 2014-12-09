@@ -27,7 +27,10 @@ the order reservations are made.
 
 ## Anthony Rowley  
 &nbsp;&nbsp; *With a rowley powley, gammon and spinach, "Heigho," says Anthony Rowley!*
-![Anthony Rowley](/images/pups-2014-Sept/week-nine/Anthony-Rowley.jpg "Anthony Rowley")
+<div class="ribbon-container">
+   <img src="/images/at-new-home.png" class="ribbon-img"/>
+   <img src="/images/pups-2014-Sept/week-nine/Anthony-Rowley.jpg" title="Anthony Rowley" alt="Anthony Rowley">
+</div>
 <a href="https://www.facebook.com/media/set/?set=a.171791602991055.1073741833.144222662414616&type=3" target="_blank">More Pictures of Anthony Rowley</a>
 
 <!-- more -->
