@@ -4,7 +4,7 @@ title: "Only One Puppy Left"
 date: 2014-12-06 22:43:32 -0600
 comments: false
 categories: puppies
-authors: tony & mindy
+author: tony & mindy
 ---
 
 We've really enjoyed having Anthony Rowley these extra few weeks, and haven't made too big of an effort to try and place him. But, he is now 13 weeks old and we know he will be better off getting to his new home sooner rather than later. For the last 3 weeks, we've been getting to know him really well and are very pleased with his personality. He is very biddable and responds well to a gentle "no" followed by praise. That is how he has been learning what he can and cannot chew on around the house. 
