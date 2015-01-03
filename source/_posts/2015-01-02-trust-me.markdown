@@ -2,9 +2,12 @@
 layout: post
 title: "learning to trust our dogs"
 date: 2015-01-02 20:25:15 -0600
-categories: 
+categories: jack lassie
 author: mindy
 ---
+
+![Amish Lassie](/images/lassie-circle.png "Amish Lassie")
+![Captain Jack](/images/jack-circle.png "Captain Jack")
 
 2014 was an eventful year for us at Halcyon Lane Farm, especially concerning the collies. We had our first litter of pups and placed them all into great new homes. We learned so much about our dogs this year as well. One of those lessons was to trust Jack and Lassie more.
 
