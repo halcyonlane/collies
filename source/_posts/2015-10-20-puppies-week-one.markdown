@@ -18,19 +18,19 @@ It was somewhat of an adventure learning Lassie was going to have a litter of pu
 And now to meet the puppies!
 
 
-## Winter
+## Winter <span class="gender">(Female)</span>
 &nbsp;&nbsp; *In winter I get up at night and dress by yellow candle-light.* - R.L. Stevenson
 ![Winter](/images/2015/pups-week-one/Winter.jpg "Winter")
 
-## Spring
+## Spring <span class="gender">(Male)</span>
 &nbsp;&nbsp; *Come, gentle Spring! ethereal mildness, come.* - James Thomson 
 ![Spring](/images/2015/pups-week-one/Spring.jpg "Spring")
 
-## Summer
+## Summer <span class="gender">(Female)</span> 
 &nbsp;&nbsp; *I always like Summer best...* - Nikki Giovanni
 ![Summer](/images/2015/pups-week-one/Summer.jpg "Summer")
 
-## Autumn
+## Autumn <span class="gender">(Female)</span>
 &nbsp;&nbsp; *Autumn...the year's last, loveliest smile.* - William Cullen Bryant
 ![Autumn](/images/2015/pups-week-one/Autumn.jpg "Autumn")
 
