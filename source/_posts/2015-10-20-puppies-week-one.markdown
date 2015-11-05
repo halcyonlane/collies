@@ -7,7 +7,9 @@ comments: false
 categories: puppies
 ---
 
-![Puppies](/images/puppies-1-circle.png "Puppies")
+<div class="post-title-img">
+   <img src="/images/puppies-1-circle.png" title="Puppies" alt="Puppies"/>
+</div>
 
 Announcing, born to Heritage Captain Jack and Halcyon Amish Lassie, on Friday October 16th, 5 puppies! Lassie woke us up at about 1:45am and we came down to find a puppy born. There was not much sleep to be had the rest of the night, too exciting! By 7:00am there were 5 puppies.
 
