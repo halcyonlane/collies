@@ -14,7 +14,7 @@ The puppies are doing well and growing leaps and bounds.
 Their eyes and ears are open, they're learning to walk (pretty hilarious), and ready to meet the world. 
 
 Their coats are just beginning to show signs of longer vs shorter hair, but that will come out more
-in the next couple weeks. We also just getting a glimpse into the personalities of the pups.
+in the next couple weeks. We're also just getting a glimpse into the personalities of the pups.
 
 
 ## Winter <span class="gender">(Female)</span>
