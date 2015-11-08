@@ -19,19 +19,36 @@ in the next couple weeks. We also just getting a glimpse into the personalities 
 
 ## Winter <span class="gender">(Female)</span>
 &nbsp;&nbsp; *In winter I get up at night and dress by yellow candle-light.* - R.L. Stevenson
-![Winter](/images/2015/pups-week-two/Winter.jpg "Winter")
+<div class="ribbon-container">
+   <img src="/images/reserved-ribbon.png" class="ribbon-img"/>
+   <img src="/images/2015/pups-week-two/Winter.jpg" title="Winter" alt="Winter">
+</div>
 
+<br/>
 ## Spring <span class="gender">(Male)</span>
 &nbsp;&nbsp; *Come, gentle Spring! ethereal mildness, come.* - James Thomson 
-![Spring](/images/2015/pups-week-two/Spring.jpg "Spring")
+<div class="ribbon-container">
+   <img src="/images/reserved-ribbon.png" class="ribbon-img"/>
+   <img src="/images/2015/pups-week-two/Spring.jpg" title="Spring" alt="Spring">
+</div>
 
+
+<br/>
 ## Summer <span class="gender">(Female)</span> 
 &nbsp;&nbsp; *I always like Summer best...* - Nikki Giovanni
-![Summer](/images/2015/pups-week-two/Summer.jpg "Summer")
+<div class="ribbon-container">
+   <img src="/images/reserved-ribbon.png" class="ribbon-img"/>
+   <img src="/images/2015/pups-week-two/Summer.jpg" title="Summer" alt="Summer">
+</div>
 
+
+<br/>
 ## Autumn <span class="gender">(Female)</span>
 &nbsp;&nbsp; *Autumn...the year's last, loveliest smile.* - William Cullen Bryant
-![Autumn](/images/2015/pups-week-two/Autumn.jpg "Autumn")
+<div class="ribbon-container">
+   <img src="/images/reserved-ribbon.png" class="ribbon-img"/>
+   <img src="/images/2015/pups-week-two/Autumn.jpg" title="Autumn" alt="Autumn">
+</div>
 
 
 
