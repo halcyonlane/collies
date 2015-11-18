@@ -6,7 +6,9 @@ categories: lassie
 author: mindy
 ---
 
-![Amish Lassie](/images/lassie-circle.png "Amish Lassie")
+<div class="post-title-img">
+   <img src="/images/lassie-circle.png" title="Amish Lassie" alt="Amish Lassie"/>
+</div>
 
 This is the story of how we came to find and buy Lassie from a local Amish family here in Wisconsin.
 

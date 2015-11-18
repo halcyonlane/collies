@@ -6,7 +6,9 @@ categories: jack
 author: mindy
 ---
 
-![Captain Jack](/images/jack-circle.png "Captain Jack")
+<div class="post-title-img">
+   <img src="/images/jack-circle.png" title="Captain Jack" alt="Captain Jack"/>
+</div>
 
 After we moved to our hobby farm a few years ago, we started looking at what kind of dog we would like to have. I did the "Pet Selector" search on one of the dog breed websites and wanted one that would be very good with children and farm animals. Only about 5 breeds showed up, and one of them was Scotch Collie. Intrigued, I started to do research on the breed and fell in love with them!
 
@@ -31,7 +33,11 @@ He does a great job at alerting us to visitors. When he was still a young pup, I
 
 Not too long ago, Jack did something interesting.  My husband and I were talking and Jack was in the next room.  He barked, which is unusual for him to do in the house.  We looked at him and he barked again, but not at anything that we could tell.  When we stepped into the room where he was, we heard our daughter crying.  Jack had heard her but must have figured out that we hadn't, and was trying to tell us!   I told my husband, "He just had a Scotch Collie moment!"
 
-Jack loves the snow! This Spring we had one small patch of snow left after the melting. Where did Jack go lie down?  Sure enough, right on top of it. The only time I really noticed him actually being cold was when we were having record low temperatures with wind chills well into the negatives - and then only after he had been out for a little while!
+![snow dog](/images/snow-collie-jack.jpg "Captain Jack in the snow")
+
+Jack loves the snow! This Spring we had one small patch of snow left after the melting. 
+
+Where did Jack go lie down?  Sure enough, right on top of it. The only time I really noticed him actually being cold was when we were having record low temperatures with wind chills well into the negatives - and then only after he had been out for a little while!
 
 Jack definitely has a herding instinct. It was pretty easy to train him that we didn't want the chickens in our yard. He does a great job herding them out of it! He also is learning how to work with the family cow and calf.
 

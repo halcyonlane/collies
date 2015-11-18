@@ -4,7 +4,8 @@ title: "Captain Jack"
 footer: true
 ---
 
-![snow dog](/images/snow-collie-jack.jpg "Captain Jack in the snow")
+
+![winter dog](/images/winter-jack.jpg "More Captain Jack in the snow")
 
 We started looking at Scotch Collies in 2012 after we moved to Halcyon Lane Farm. 
 [Captain Jack](http://www.scotchcollie.org/registry/browser.php?id=63740 "Heritage Captain Jack")
