@@ -14,7 +14,12 @@ Hot summer days, the garden is in, apples are grafted, and puppies are on the ru
 
 It's so fun to watch them trot around, alert to any changes since the last time they were out. They have some good tussles and play follow-the-leader. One puppy will find an interesting thing to carry around and runs to keep it from the others. After a while, one-by-one the puppies plop down in a cozy spot for a nap. Then we scoop them up and take them back to the house for a long nap.
 
-All the puppies are now reserved, and we're really excited about the families they are going to. Check out our facebook page for bonus pictures! 
+All the puppies are now reserved, and we're really excited about the families they are going to. Check out our 
+[facebook](https://www.facebook.com/Halcyon-Lane-Farm-144222662414616 "Halcyon Lane Farm Facebook") 
+page for bonus pictures! 
+
+
+
 
 <br/>
 <br/>
