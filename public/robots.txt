@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://collies.halcyonlane.com/sitemap.xml 
