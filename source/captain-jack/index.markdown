@@ -23,5 +23,5 @@ and Jack is registered there.
 It was an adventure getting Captain Jack in August of 2012 when we made a trip to Missouri as part of a "puppy train"
 that started in Arizona and ended in Michigan.
 
-[Read more about Jack](blog/2014/01/02/all-about-jack/ "All About Jack") 
+[Read more about Jack](/blog/2014/01/02/all-about-jack/index.html "All About Jack") 
 

@@ -25,5 +25,5 @@ by pairing her with
 and Lassie get along really well and it's fun to see them running around the farm together, chasing mice,
 herding the poultry to their designated areas, or bringing the cows in for milking.
 
-[Read more about how we found Lassie](blog/2014/02/19/amish-lassie/ "How Lassie came to the farm")
+[Read more about how we found Lassie](/blog/2014/02/19/amish-lassie/index.html "How Lassie came to the farm")
 
