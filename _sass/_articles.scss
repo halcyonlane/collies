@@ -1,0 +1,148 @@
+@use "variables" as *;
+
+// Article Styles
+article {
+  margin-bottom: 1em;
+  
+  header {
+    margin-bottom: 1.5em;
+    padding-bottom: 1em;
+    border-bottom: 1px solid $border-color;
+    
+    h1 {
+      margin-bottom: 0.3em;
+      font-style: italic;
+      font-weight: 100;
+      font-size: 2.2em;
+    }
+    
+    time {
+      color: #888;
+      font-size: 0.9em;
+      letter-spacing: 1px;
+    }
+  }
+  
+  .entry-content {
+    h2, h3 {
+      margin-top: 1.5em;
+      padding-top: 1em;
+      border-top: 1px solid $border-color;
+    }
+    
+    h3 {
+      font-style: italic;
+    }
+  }
+  
+  img {
+    border-radius: 0.3em;
+    border: 0.5em solid $background;
+    
+    &.left {
+      float: left;
+      margin: 0 2em 1em 0;
+    }
+    
+    &.right {
+      float: right;
+      margin: 0 0 1em 2em;
+    }
+  }
+}
+
+// Blog Index
+.blog-index article {
+  padding-top: 2em;
+  border-top: 1px solid $border-color;
+  
+  &:first-child {
+    border-top: none;
+  }
+  
+  h1 a {
+    color: inherit;
+    
+    &:hover {
+      color: $primary-color;
+    }
+  }
+}
+
+// Pagination
+.pagination {
+  margin: 4em 0;
+  padding: 1.5em 0;
+  border-top: 1px solid #b0b0b0;
+  border-bottom: 1px solid #b0b0b0;
+  text-align: center;
+  
+  a {
+    color: #888;
+    
+    &:hover {
+      color: $primary-color;
+    }
+    
+    &.prev {
+      float: left;
+    }
+    
+    &.next {
+      float: right;
+    }
+  }
+}
+
+// Archives
+#blog-archives {
+  article {
+    padding: 1em 0;
+    border-bottom: 1px solid $border-color;
+    
+    h1 {
+      font-size: 1.5em;
+      margin-bottom: 0.3em;
+      
+      a {
+        color: $text-color;
+        
+        &:hover {
+          color: $primary-color;
+        }
+      }
+    }
+    
+    time {
+      color: #888;
+      font-size: 0.9em;
+    }
+  }
+}
+
+// Special Classes
+.post-title-img {
+  float: left;
+  height: 150px;
+  width: 150px;
+  margin-right: 2em;
+}
+
+.gender {
+  font-style: italic;
+  font-size: 0.5em;
+  font-weight: 50;
+}
+
+.ribbon-container {
+  position: relative;
+}
+
+.ribbon-img {
+  height: 130px;
+  width: 155px;
+  border: none;
+  position: absolute;
+  top: 27px;
+  right: 0;
+}

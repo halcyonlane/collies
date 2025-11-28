@@ -1,0 +1,30 @@
+<!-- Pagination links -->
+<div class="pagination" style="display: flex; justify-content: space-between; align-items: center; margin: 2em 0;">
+  <div style="flex: 1; text-align: left;">
+    {% if include.type == 'paginator' %}
+      {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path | relative_url }}">&larr; Older</a>
+      {% endif %}
+    {% elsif include.type == 'post' %}
+      {% if page.previous %}
+        <a href="{{ page.previous.url | relative_url }}">&larr; Older</a>
+      {% endif %}
+    {% endif %}
+  </div>
+
+  <span class="page-number" style="flex: 1; text-align: center;">
+    <a href="/archives">- Archives -</a>
+  </span>
+
+  <div style="flex: 1; text-align: right;">
+    {% if include.type == 'paginator' %}
+      {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path | relative_url }}">Newer &rarr;</a>
+      {% endif %}
+    {% elsif include.type == 'post' %}
+      {% if page.next %}
+        <a href="{{ page.next.url | relative_url }}">Newer &rarr;</a>
+      {% endif %}
+    {% endif %}
+  </div>
+</div>

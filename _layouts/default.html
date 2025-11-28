@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+  <meta name="author" content="Halcyon Lane">
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link href="{{ '/assets/favicon.png' | relative_url }}" rel="icon">
+  <link href="{{ '/assets/css/main.css' | relative_url }}" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="{{ '/atom.xml' | relative_url }}" rel="alternate" title="{{ site.title }}" type="application/atom+xml">
+  <script src="{{ '/assets/js/modernizr-2.0.js' | relative_url }}"></script>
+  
+  <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+  <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Fjalla+One' rel='stylesheet' type='text/css'>
+</head>
+
+<body class="collapse-sidebar sidebar-footer">
+  <header role="banner">
+    <div class="header-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></div>
+    <br><div class="header-subtitle"><a href="http://www.scotchcollie.org/">Scotch Collies</a></div>
+  </header>
+  
+  <nav role="navigation">
+    <ul class="main-navigation">
+      <li><a href="{{ '/' | relative_url }}">News</a></li>
+      <li><a href="{{ '/captain-jack' | relative_url }}">Captain Jack</a></li>
+      <li><a href="{{ '/amish-lassie' | relative_url }}">Amish Lassie</a></li>
+      <li><a href="{{ '/about' | relative_url }}">About Us</a></li>
+    </ul>
+  </nav>
+  
+  <div id="main">
+    <div id="content">
+      {{ content }}
+    </div>
+  </div>
+  
+  <footer role="contentinfo">
+    <p>
+      Copyright &copy; {{ 'now' | date: "%Y" }} - 
+      <a href="mailto:mindy@halcyonlane.com"><img alt="email us" height="11" width="14" src="/assets/images/email.png"></a>
+      Halcyon Lane Farm
+    </p>
+  </footer>
+</body>
+</html>

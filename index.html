@@ -1,0 +1,30 @@
+---
+layout: default
+title: Halcyon Lane Farm Collies
+---
+
+<div class="blog-index">
+  {% for post in paginator.posts %}
+  <article class="hentry" role="article">
+    <header>
+      <h1 class="entry-title">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </h1>
+      <p class="meta">
+        <time datetime="{{ post.date | date_to_xmlschema }}" pubdate data-updated="true">
+          {{ post.date | date: "%b %-d, %Y" }}
+        </time>
+      </p>
+    </header>
+    
+    <div class="entry-content">
+      {{ post.content }}
+    </div>
+  </article>
+  {% endfor %}
+</div>
+
+{% if paginator.total_pages > 1 %}
+{% include pagination.html type='paginator' %}
+{% endif %}
+
