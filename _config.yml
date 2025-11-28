@@ -6,6 +6,7 @@ baseurl: ""
 # Build settings
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title/
+destination: docs
 
 # Sass settings
 sass:
