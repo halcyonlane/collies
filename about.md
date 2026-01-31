@@ -8,9 +8,8 @@ permalink: /about/
   <h1>About Us</h1>
   
   <p>We have been very interested in Scotch Collies ever since we started researching dog breeds for our hobby farm.
-Captain Jack and Amish Lassie are registered with the
-<a href="http://www.scotchcollie.org/club/" title="Old-Time Scotch Collie Association">Old-Time Scotch Collie Association</a>
-, of which we are members. It is a great organization, founded with the objective of "registering and maintaining pedigrees of Old-Time Scotch Collies and to promote the breeding and distribution of Old-Time Scotch Collies."</p>
+Annie is registered with the
+<a href="http://www.scotchcollie.org/club/" title="Old-Time Scotch Collie Association">Old-Time Scotch Collie Association</a>  ,of which we are members. We are currently applying for registration for Kip as well. The OTSCA is a great organization, founded with the objective of "registering and maintaining pedigrees of Old-Time Scotch Collies and to promote the breeding and distribution of Old-Time Scotch Collies."</p>
 
 <p>Among the many things that attracted us to the breed, the one that stood out the most is the versatility for diversified farming (like most farms were, back in the day). Heritage breed animals, in general, were meant to get along well with people and animals while also performing useful tasks.</p>
 
