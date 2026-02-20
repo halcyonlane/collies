@@ -5,7 +5,7 @@ draft: true
 ---
 ![Kip](/assets/images/kippy-circle.png "Kip")
 
-Early in 2026, we saw an ad for scotch collie puppies on an Amish farm about an hour from us. Jack was getting pretty old and we were wanting to have puppies out of Annie, so we decided to check out the ad. 
+Early in 2025, we saw an ad for scotch collie puppies on an Amish farm about an hour from us. Jack was getting pretty old and we were wanting to have puppies out of Annie, so we decided to check out the ad. 
 
 ![Kip](/assets/images/baby-kip.jpg "Kip")
 
