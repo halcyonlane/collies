@@ -54,7 +54,7 @@ Kip is very interested in the puppies and has been around them more this week. H
 <br/>
 – A.A. Milne, (Winnie-the-Pooh).
 
-![Bracken](/assets/images/2026/pups-week-three/bracken-2.jpg "Bracken")
+![Bracken](/assets/images/2026/pups-week-three/Bracken-2.jpg "Bracken")
 
 
 
