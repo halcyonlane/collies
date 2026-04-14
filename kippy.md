@@ -11,8 +11,8 @@ Kip was born on an Amish farm about an hour away from us. We were interested in 
 
 Even as a puppy, Kip was very people-oriented and would try to help us with whatever we were doing. When we were digging in the garden he would dig too! Kip would also watch our other dogs working around the farm and learned a lot of things from Annie (and some tips on how to behave when he got too playful, from Jack).
 
-Kip has grown up to be a beautiful working dog. He now does many jobs around the farm, from hunting mice and rodents to letting us know when he thinks the kids are doing something he percives as dangereous. He also lets us know if our animals (cows, goats, pigs,) get out of their pens.
+Kip has grown up to be a beautiful working dog. He now does many jobs around the farm, from hunting mice and rodents to letting us know when he thinks the kids are doing something he percives as dangereous. He also lets us know if our animals (cows, goats, pigs,) get out of their pens, and has become an expert at putting wandering calves back into their pens.
 
-Because Amish people in our area don't believe in registering their animals, Kip and his parents weren't registered. So we are currently applying for that through the [Old-Time Scotch Collie Association](http://www.scotchcollie.org/club/).
+Because Amish people in our area don't believe in registering their animals, Kip and his parents weren't registered, but when a year old, he was approved for appendix registration with the [Old-Time Scotch Collie Association](http://www.scotchcollie.org/club/).This is what the OSTCA does for dogs of unknown lineage that fit the Scotch Collie type, and when bred to a fully registered dog, their offspring is elligable for full registeration. [Click here to see his registry.](https://registry.scotchcollie.org/details.php?id=69103)
 
 [Read more about Kip in "All about Kip"](/blog/2026/02/10/all-about-kip/ "All about Kip")
