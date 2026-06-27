@@ -4,7 +4,7 @@ title: "The Final Countdown"
 date: 2017-06-19
 ---
 
-![Puppies](/assets/images/puppies-1-circle.png)
+![Puppies](/assets/images/old-photos/puppies-1-circle.png)
 
 It’s getting so close now, for you new puppy owners-to-be. Next week already some puppies will be heading to their new homes and we are really excited about the families they are going to!
 

@@ -4,7 +4,7 @@ title: "Spring Puppies"
 date: 2017-05-06
 ---
 
-![Puppies](/assets/images/puppies-1-circle.png)
+![Puppies](/assets/images/old-photos/puppies-1-circle.png)
 
 Spring has really sprung here at Halcyon Lane Farm. We’ve been hatching out ducks, turkeys, chickens and geese, waiting for a couple calves, setting up a new beehive, planting fruit trees, *and* oh yeah, Lassie just had puppies! There are 5 roly-poly cute puppies, 4 sables (2 male, 2 female) and 1 tricolor (female). Everything went well and all the puppies are healthy and thriving.
 

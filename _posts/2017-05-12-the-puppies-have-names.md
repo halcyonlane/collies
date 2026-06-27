@@ -4,7 +4,7 @@ title: "The Puppies Have Names"
 date: 2017-05-12
 ---
 
-![Puppies](/assets/images/puppies-1-circle.png)
+![Puppies](/assets/images/old-photos/puppies-1-circle.png)
 
 It’s been a little busier than usual around our place, and getting consensus on names for the puppies has been about as difficult as finding time to post an update of them :)  (Scroll down for pictures)
 

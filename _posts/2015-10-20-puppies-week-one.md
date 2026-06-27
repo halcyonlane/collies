@@ -4,7 +4,7 @@ title: "'Tis the Season for Puppies"
 date: 2015-10-20
 ---
 
-![Puppies](/assets/images/puppies-1-circle.png)
+![Puppies](/assets/images/old-photos/puppies-1-circle.png)
 
 Announcing, born to Heritage Captain Jack and Halcyon Amish Lassie, on Friday October 16th, 5 puppies! Lassie woke us up at about 1:45am and we came down to find a puppy born. There was not much sleep to be had the rest of the night, too exciting! By 7:00am there were 5 puppies.
 

@@ -4,7 +4,7 @@ title: "Puppies Week 7"
 date: 2015-12-07
 ---
 
-![Puppies](/assets/images/puppies-1-circle.png)
+![Puppies](/assets/images/old-photos/puppies-1-circle.png)
 
 This is our last week with the puppies before they leave us and head off to their new homes. We are sure going to miss them! At the same time, the pups are very anxious to meet you (you know who you are!) and are practically gift wrapping themselves to get home for Christmas.
 

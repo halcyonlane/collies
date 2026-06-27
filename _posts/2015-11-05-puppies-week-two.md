@@ -4,7 +4,7 @@ title: "Puppies Weeks Two & Three"
 date: 2015-11-05
 ---
 
-![Puppies](/assets/images/puppies-1-circle.png)
+![Puppies](/assets/images/old-photos/puppies-1-circle.png)
 
 The puppies are doing well and growing leaps and bounds.
 Their eyes and ears are open, they’re learning to walk (pretty hilarious), and ready to meet the world.

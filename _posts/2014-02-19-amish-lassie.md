@@ -4,7 +4,7 @@ title: "How Lassie Joined the Farm"
 date: 2014-02-19
 ---
 
-![Amish Lassie](/assets/images/lassie-circle.png)
+![Amish Lassie](/assets/images/old-photos/lassie-circle.png)
 
 This is the story of how we came to find and buy Lassie from a local Amish family here in Wisconsin.
 
@@ -22,7 +22,7 @@ When I asked if Lassie herds any animals around the farm, I was told, “Oh yeah
 On their farm they had 8 or so milk cows and raised layer chickens, along with a pony and I’m not sure what else.
 Their children were all young, so I knew Lassie was used to kids!
 
-![Meeting Lassie](/assets/images/meeting-lassie.png)
+![Meeting Lassie](/assets/images/old-photos/meeting-lassie.png)
 
 They didn’t know anything of Lassie’s background, just that “someone in our community raises them.” I was very
 intrigued about Lassie after that visit.

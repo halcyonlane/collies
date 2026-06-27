@@ -4,7 +4,7 @@ title: "In the Nursery - Week Nine"
 date: 2014-11-01
 ---
 
-![Puppies](/assets/images/puppies-1-circle.png)
+![Puppies](/assets/images/old-photos/puppies-1-circle.png)
 
 The puppies are now 8 weeks old, and those not spoken-for are ready to go to new homes!
 They have really grown during the past two weeks and are delightfully fun. They’re adventurous and playful when outdoors,
@@ -25,7 +25,7 @@ the order reservations are made.
 
    *With a rowley powley, gammon and spinach, “Heigho,” says Anthony Rowley!*
 
-   ![Anthony Rowley](/assets/images/pups-2014-Sept/week-nine/Anthony-Rowley.jpg)
+   ![Anthony Rowley](/assets/images/2014/week-nine/Anthony-Rowley.jpg)
 
 [More Pictures of Anthony Rowley](https://www.facebook.com/media/set/?set=a.171791602991055.1073741833.144222662414616&type=3)
 
@@ -35,7 +35,7 @@ the order reservations are made.
 
    Said Tommy Snooks to Betsy Brooks, “Tomorrow will be Monday.”
 
-   ![Betsy Brooks](/assets/images/pups-2014-Sept/week-nine/Betsy-Brooks.jpg)
+   ![Betsy Brooks](/assets/images/2014/week-nine/Betsy-Brooks.jpg)
 
 [More Pictures of Betsy Brooks](https://www.facebook.com/media/set/?set=a.171827356320813.1073741840.144222662414616&type=1)
 
@@ -45,7 +45,7 @@ the order reservations are made.
 
    He’ll come back and marry me, Bonny Bobby Shaftoe!
 
-   ![Bobby Shaftoe](/assets/images/pups-2014-Sept/week-nine/Bobby-Shaftoe.jpg)
+   ![Bobby Shaftoe](/assets/images/2014/week-nine/Bobby-Shaftoe.jpg)
 
 [More Pictures of Bobby Shaftoe](https://www.facebook.com/media/set/?set=a.171794569657425.1073741836.144222662414616&type=3)
 
@@ -53,7 +53,7 @@ the order reservations are made.
 
    *Ate the pudding, and left the bag.*
 
-   ![Charley Wag](/assets/images/pups-2014-Sept/week-nine/Charley-Wag.jpg)
+   ![Charley Wag](/assets/images/2014/week-nine/Charley-Wag.jpg)
 
 [More Pictures of Charley Wag](https://www.facebook.com/media/set/?set=a.171795936323955.1073741838.144222662414616&type=3)
 
@@ -63,7 +63,7 @@ the order reservations are made.
 
    So daintily she danced and so prettily she sung…
 
-   ![Jenny Wren](/assets/images/pups-2014-Sept/week-nine/Jenny-Wren.jpg)
+   ![Jenny Wren](/assets/images/2014/week-nine/Jenny-Wren.jpg)
 
 [More Pictures of Jenny Wren](https://www.facebook.com/media/set/?set=a.171796649657217.1073741839.144222662414616&type=1)
 
@@ -73,7 +73,7 @@ the order reservations are made.
 
    Not a penny was there in it, only ribbon round it.
 
-   ![Lucy Locket](/assets/images/pups-2014-Sept/week-nine/Lucy-Locket.jpg)
+   ![Lucy Locket](/assets/images/2014/week-nine/Lucy-Locket.jpg)
 
 [More Pictures of Lucy Locket](https://www.facebook.com/media/set/?set=a.171795126324036.1073741837.144222662414616&type=3)
 
@@ -83,7 +83,7 @@ the order reservations are made.
 
    He shall have but a penny a day because he can’t work any faster.
 
-   ![Margery Daw](/assets/images/pups-2014-Sept/week-nine/Margery-Daw.jpg)
+   ![Margery Daw](/assets/images/2014/week-nine/Margery-Daw.jpg)
 
 [More Pictures of Margery Daw](https://www.facebook.com/media/set/?set=a.171793266324222.1073741835.144222662414616&type=3)
 
@@ -93,7 +93,7 @@ the order reservations are made.
 
    The longer she stands the shorter she grows.
 
-   ![Nancy Etticoat](/assets/images/pups-2014-Sept/week-nine/Nancy-Etticoat.jpg)
+   ![Nancy Etticoat](/assets/images/2014/week-nine/Nancy-Etticoat.jpg)
 
 [More Pictures of Nancy Etticoat](https://www.facebook.com/media/set/?set=a.171792216324327.1073741834.144222662414616&type=3)
 
@@ -103,4 +103,4 @@ the order reservations are made.
 
    warming her pretty little toes.
 
-   ![Polly Flinders](/assets/images/pups-2014-Sept/week-seven/Polly-Flinders.jpg)
+   ![Polly Flinders](/assets/images/2014/week-seven/Polly-Flinders.jpg)

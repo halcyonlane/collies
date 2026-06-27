@@ -4,7 +4,7 @@ title: "Puppies Week Four"
 date: 2015-11-17
 ---
 
-![Puppies](/assets/images/puppies-1-circle.png)
+![Puppies](/assets/images/old-photos/puppies-1-circle.png)
 
 We’ve been having a blast giving so much holding time and attention to all four pups and taking them outside for their first romps. They’ve loved the time outside and it’s great watching them take in all the new scents and sights.
 

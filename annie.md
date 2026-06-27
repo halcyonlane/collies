@@ -5,7 +5,7 @@ title: About Annie
 
 # Annie
 
-![Annie](/assets/images/annie.jpg "Annie")
+![Annie](/assets/images/annie/annie.jpg "Annie")
 
 We really missed Lassie after she died in 2021, and decided to start looking for a new Scotch Collie female. Over the years, from when I first learned about Scotch Collies, I really admired the 4J Acres dogs - their bloodlines and looks, as well as their breeding program. But, driving to Texas from Wisconsin to pick up a pup was never really an option for us. Almost impossibly, it seemed, 4J Acres had a litter of puppies (with strong Sojourner lines!) that would be ready to go, right when we would be driving near (okay, well, 5 hours away, in Arkansas), finishing up our 4313 mile family road trip vacation. Picking Annie up was the highlight of the trip! 
 

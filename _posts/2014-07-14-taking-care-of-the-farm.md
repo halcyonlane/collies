@@ -4,8 +4,8 @@ title: "Taking Care of the Farm"
 date: 2014-07-14
 ---
 
-![Amish Lassie](/assets/images/lassie-circle.png)
-![Captain Jack](/assets/images/jack-circle.png)
+![Amish Lassie](/assets/images/old-photos/lassie-circle.png)
+![Captain Jack](/assets/images/old-photos/jack-circle.png)
 
 We’ve been training Jack to keep the goslings out of the back yard.
 He is very enthusiastic about helping.

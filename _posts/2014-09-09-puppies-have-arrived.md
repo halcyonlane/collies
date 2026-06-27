@@ -4,9 +4,9 @@ title: "Puppies Have Arrived!"
 date: 2014-09-09
 ---
 
-![Amish Lassie](/assets/images/lassie-circle.png)
-![Puppies](/assets/images/puppies-1-circle.png)
-![Captain Jack](/assets/images/jack-circle.png)
+![Amish Lassie](/assets/images/old-photos/lassie-circle.png)
+![Puppies](/assets/images/old-photos/puppies-1-circle.png)
+![Captain Jack](/assets/images/old-photos/jack-circle.png)
 
 Announcing, born to Heritage Captain Jack and Halcyon Amish Lassie,
  on Sunday September 7th, lots of puppies. They were born all through the
@@ -20,7 +20,7 @@ puppies now and then, but when she is outside for a break,
 
 Here is a picture (more to follow) with Lassie and the pups:
 
-![Lassie With Pups](/assets/images/lassie-with-puppies-1.jpg)
+![Lassie With Pups](/assets/images/old-photos/lassie-with-puppies-1.jpg)
 
 As soon as we decide on names we will send in our litter registration to the
 [Old-Time Scotch Collie Association](http://www.scotchcollie.org/club/ "Old-Time Scotch Collie Association").

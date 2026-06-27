@@ -4,7 +4,7 @@ title: "Puppies Week 6"
 date: 2015-11-30
 ---
 
-![Puppies](/assets/images/puppies-1-circle.png)
+![Puppies](/assets/images/old-photos/puppies-1-circle.png)
 
 We’ve been giving the pups some daily excursions outside to play. They love getting outside and exploring the sights and smells of the farm as well as making friends with some of the cats.
 

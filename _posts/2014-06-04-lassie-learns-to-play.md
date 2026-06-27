@@ -4,7 +4,7 @@ title: "Lassie Learns to Play"
 date: 2014-06-04
 ---
 
-![Amish Lassie](/assets/images/lassie-circle.png)
+![Amish Lassie](/assets/images/old-photos/lassie-circle.png)
 
 I don’t know if Lassie learned how to play with her previous owners. Since she came here, she has seemed puzzled every time we play with Jack. Often she’d try to chase him, as if wondering if we want him caught. She seemed jealous, wanting our attention.
 

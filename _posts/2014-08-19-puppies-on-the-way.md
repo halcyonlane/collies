@@ -4,8 +4,8 @@ title: "Puppies on the Way!"
 date: 2014-08-19
 ---
 
-![Amish Lassie](/assets/images/lassie-circle.png)
-![Captain Jack](/assets/images/jack-circle.png)
+![Amish Lassie](/assets/images/old-photos/lassie-circle.png)
+![Captain Jack](/assets/images/old-photos/jack-circle.png)
 
 We took Lassie to the vet two weeks ago and she was diagnosed with puppies!
 When Lassie was on the Amish farm, she usually had big litters of 8 to 12 pups.

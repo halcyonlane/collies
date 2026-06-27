@@ -4,7 +4,7 @@ title: "All About Jack"
 date: 2014-01-02
 ---
 
-![Captain Jack](/assets/images/jack-circle.png)
+![Captain Jack](/assets/images/old-photos/jack-circle.png)
 
 After we moved to our hobby farm a few years ago, we started looking at what kind of dog we would like to have. I did the “Pet Selector” search on one of the dog breed websites and wanted one that would be very good with children and farm animals. Only about 5 breeds showed up, and one of them was Scotch Collie. Intrigued, I started to do research on the breed and fell in love with them!
 
@@ -14,7 +14,7 @@ The timing of my search was perfect as I was just in time to get in on a litter 
 Our full name for Jack is “Captain John Paul Jones,” after the Scotch Naval hero. He was a great puppy.
 He was always doing something hilarious, like running back and forth through tall grass, acting like he’s attacking something or that something was attacking him!
 
-![Jack as a puppy](/assets/images/puppy-jack-1.jpg)
+![Jack as a puppy](/assets/images/old-photos/puppy-jack-1.jpg)
 
 We brought him to an outdoor festival when he was 2 months old, and it was really fun to hear everyone’s comments about him. It was touching to hear how many people were nostalgic about their collies! One elderly couple came up to me and asked what kind of dog he was. After I replied, the man nudged his wife and said, “See, I told you it was a collie!” It was more of the type he remembered collies being. One of my favorite stories was from a woman who said that the collie she had while growing up used to let the family know that the phone was ringing in the house, when they were all in the barn!
 
@@ -26,7 +26,7 @@ He does a great job at alerting us to visitors. When he was still a young pup, I
 
 Not too long ago, Jack did something interesting.  My husband and I were talking and Jack was in the next room.  He barked, which is unusual for him to do in the house.  We looked at him and he barked again, but not at anything that we could tell.  When we stepped into the room where he was, we heard our daughter crying.  Jack had heard her but must have figured out that we hadn’t, and was trying to tell us!   I told my husband, “He just had a Scotch Collie moment!”
 
-![Captain Jack in the snow](/assets/images/snow-collie-jack.jpg)
+![Captain Jack in the snow](/assets/images/old-photos/snow-collie-jack.jpg)
 
 Jack loves the snow! This Spring we had one small patch of snow left after the melting.
 

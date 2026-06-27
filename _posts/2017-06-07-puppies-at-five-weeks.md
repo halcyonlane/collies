@@ -4,7 +4,7 @@ title: "Puppies at Five Weeks"
 date: 2017-06-07
 ---
 
-![Puppies](/assets/images/puppies-1-circle.png)
+![Puppies](/assets/images/old-photos/puppies-1-circle.png)
 
 Hot summer days, the garden is in, apples are grafted, and puppies are on the run! The weather has been so beautiful, we’ve been taking the puppies outside for extra play times.
 

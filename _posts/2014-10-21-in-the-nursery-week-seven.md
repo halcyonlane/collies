@@ -4,7 +4,7 @@ title: "In the Nursery - Week Seven"
 date: 2014-10-21
 ---
 
-![Puppies](/assets/images/puppies-1-circle.png)
+![Puppies](/assets/images/old-photos/puppies-1-circle.png)
 
 It’s been so exciting to see each puppy’s personality blossom.
 Already I’m seeing so many of the strong Scotch Collie traits that have been part of the breed for centuries.
@@ -21,34 +21,34 @@ the order reservations are made.
 ## Anthony Rowley
 
    *With a rowley powley, gammon and spinach, “Heigho,” says Anthony Rowley!*
-![Anthony Rowley](/assets/images/pups-2014-Sept/week-seven/Anthony-Rowley.jpg)
+![Anthony Rowley](/assets/images/2014/week-seven/Anthony-Rowley.jpg)
 
 ## Betsy Brooks
 
    As Tommy Snooks and Betsy Brooks were walking out one Sunday, 
 
    Said Tommy Snooks to Betsy Brooks, “Tomorrow will be Monday.”
-![Betsy Brooks](/assets/images/pups-2014-Sept/week-seven/Betsy-Brooks.jpg)
+![Betsy Brooks](/assets/images/2014/week-seven/Betsy-Brooks.jpg)
 
 ## Bobby Shaftoe
 
    Bobby Shaftoe’s gone to sea, Silver buckles on his knee; 
 
    He’ll come back and marry me, Bonny Bobby Shaftoe!
-![Bobby Shaftoe](/assets/images/pups-2014-Sept/week-seven/Bobby-Shaftoe.jpg)
+![Bobby Shaftoe](/assets/images/2014/week-seven/Bobby-Shaftoe.jpg)
 
 ## Charley Wag
 
    *Ate the pudding, and left the bag.*
 
-   ![Charley Wag](/assets/images/pups-2014-Sept/week-seven/Charley-Wag.jpg)
+   ![Charley Wag](/assets/images/2014/week-seven/Charley-Wag.jpg)
 
 ## Jenny Wren
 
    ‘Twas once upon a time, when Jenny Wren was young, 
 
    So daintily she danced and so prettily she sung…
-![Jenny Wren](/assets/images/pups-2014-Sept/week-seven/Jenny-Wren.jpg)
+![Jenny Wren](/assets/images/2014/week-seven/Jenny-Wren.jpg)
 
 ## Lucy Locket
 
@@ -56,21 +56,21 @@ the order reservations are made.
 
    Not a penny was there in it, only ribbon round it.
 
-   ![Lucy Locket](/assets/images/pups-2014-Sept/week-seven/Lucy-Locket.jpg)
+   ![Lucy Locket](/assets/images/2014/week-seven/Lucy-Locket.jpg)
 
 ## Margery Daw
 
    See-saw, Margery Daw, Johnny shall have a new master; 
 
    He shall have but a penny a day because he can’t work any faster.
-![Margery Daw](/assets/images/pups-2014-Sept/week-seven/Margery-Daw.jpg)
+![Margery Daw](/assets/images/2014/week-seven/Margery-Daw.jpg)
 
 ## Nancy Etticoat
 
    Little Nancy Etticoat in a white petticoat and a red nose; 
 
    The longer she stands the shorter she grows.
-![Nancy Etticoat](/assets/images/pups-2014-Sept/week-seven/Nancy-Etticoat.jpg)
+![Nancy Etticoat](/assets/images/2014/week-seven/Nancy-Etticoat.jpg)
 
 ## Polly Flinders
 
@@ -78,4 +78,4 @@ the order reservations are made.
 
    warming her pretty little toes.
 
-   ![Polly Flinders](/assets/images/pups-2014-Sept/week-seven/Polly-Flinders.jpg)
+   ![Polly Flinders](/assets/images/2014/week-seven/Polly-Flinders.jpg)

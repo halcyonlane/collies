@@ -8,7 +8,7 @@ We’ve really enjoyed having Anthony Rowley these extra few weeks, and haven’
 
 He also loves to hang out with us around the fireplace and will sleep there in the evenings.
 
-![Anthony Rowley](/assets/images/pups-2014-Sept/Antony-Rowley-Sleeping-week-13.jpg)
+![Anthony Rowley](/assets/images/2014/Antony-Rowley-Sleeping-week-13.jpg)
 
 He gets that warm, cozy, comfort seeking side from his dam, Lassie. Whereas, Captain Jack is fond of the snow and the cold, Lassie and Anthony Rowley are much quicker to come back in when the playing is finished.
 
@@ -18,4 +18,4 @@ House training has been going well, and with the other dogs around to help show 
 
 Let us know if you are interested in this handsome and affectionate little guy!
 
-![Anthony Rowley](/assets/images/pups-2014-Sept/AR-on-buffet-week-12.jpg)
+![Anthony Rowley](/assets/images/2014/AR-on-buffet-week-12.jpg)
