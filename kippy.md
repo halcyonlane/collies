@@ -5,7 +5,7 @@ title:  About Kip
 
 # Kip
   
-![Kip](/assets/images/kippy.jpg "Kip")
+![Kip](/assets/images/kip/Kip-page.jpg "Kip")
 
 Kip was born on an Amish farm about an hour away from us. We were interested in a male puppy at the time, and Kip seemed to fit perfectly for what we wanted. His parents seemed to really fit the Scotch Collie breed, and their litter of puppies looked just like typical Scotch Collie pups.
 
